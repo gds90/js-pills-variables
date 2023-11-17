@@ -6,3 +6,6 @@ console.log(number);
 const PI = 3.14;
 console.log(PI);
 
+// esercizio 2/B
+// PI = 3.1416;
+// console.log(PI);
