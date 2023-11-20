@@ -36,3 +36,17 @@ console.log(greet);
 // esercizio 4/C template literals
 greet = `${greet} Come stai?`
 console.log(greet)
+
+//esercizio 5
+let n1 = 8;
+let n2 = 4;
+let comparison;
+
+if n1 > n2 {
+    comparison = n1;
+}
+else {
+    comparison = n2;
+}
+
+console.log(comparison);

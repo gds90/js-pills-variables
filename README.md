@@ -16,3 +16,6 @@ Stampa il valore della variabile `circle` in console.
 ​
 **Esercizio 3**
 Dichiara una variabile chiamata `name` e assegnale il valore "Carlo". Successivamente, modifica il valore della variabile in "Marco". Stampa il nuovo valore in console.
+
+**Esercizio 5**
+Crea una variabile `comparison` e assegnale il risultato del confronto tra due numeri per verificare se il primo numero è maggiore del secondo. Stampa sulla console il valore di `comparison`
