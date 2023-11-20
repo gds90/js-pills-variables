@@ -22,6 +22,9 @@ name = 'Marco'
 console.log(name)
 
 // esercizio 4
-let greet = 'Ciao, Mondo!'
-console.log(greet)
+let greet = 'Ciao, Mondo!';
+console.log(greet);
 
+// esercizio 4/B
+let greet = 'Come stai, Mondo?';
+console.log(greet);
