@@ -20,3 +20,8 @@ let name = 'Carlo'
 console.log(name)
 name = 'Marco'
 console.log(name)
+
+// esercizio 4
+let greet = 'Ciao, Mondo!'
+console.log(greet)
+
