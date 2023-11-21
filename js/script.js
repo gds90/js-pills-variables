@@ -62,3 +62,4 @@ if (st1 == st2) {
     comparison = "le stringhe sono diverse";
 }
 console.log(comparison)
+
