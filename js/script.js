@@ -42,7 +42,7 @@ let n1 = 8;
 let n2 = 4;
 let comparison;
 
-if n1 > n2 {
+if (n1 > n2) {
     comparison = n1;
 }
 else {
@@ -50,3 +50,15 @@ else {
 }
 
 console.log(comparison);
+
+// esercizio 6
+let st1 = "peppe";
+let st2 = "pippo";
+let comparison;
+
+if (st1 == st2) {
+    comparison = "le stringhe sono uguali";
+}  else {
+    comparison = "le stringhe sono diverse";
+}
+console.log(comparison)
