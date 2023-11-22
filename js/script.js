@@ -63,3 +63,14 @@ if (st1 == st2) {
 }
 console.log(comparison)
 
+// esercizio 7
+let num = 2;
+let st = "2";
+let comparison;
+
+if (num == st) {
+    comparison = "le stringhe sono uguali";
+}  else {
+    comparison = "le stringhe sono diverse";
+}
+console.log(comparison)
