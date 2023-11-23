@@ -96,3 +96,7 @@ console.log(numbers);
 
 const fruits = ['mela', 'banana', 'pesca', 'pera', 'albicocca', 'mango', 'kiwi', 'papaya'];
 console.log(fruits);
+
+// esercizio 9/b
+
+console.log(fruits.length);
