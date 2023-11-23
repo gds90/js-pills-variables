@@ -74,3 +74,9 @@ if (num == st) {
     comparison = "le stringhe sono diverse";
 }
 console.log(comparison)
+
+// esercizio 8
+
+for (let i=1; i<=42; i++){
+    console.log(i)
+}
